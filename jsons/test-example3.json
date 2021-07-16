@@ -1,0 +1,27 @@
+{
+  "result": {
+    "code": 200,
+    "info": "OK",
+    "message": "Encontrado(s) 2 recurso(s)."
+  },
+  "data": {
+    "tiposAtendimento": [
+      {
+        "idTipoAtendimento": 1,
+        "nome": "a",
+        "descricao": "b",
+        "justificativaRequerida": 1,
+        "dataAtualizado": "2019-10-22T20:10:39",
+        "ativo": 1
+      },
+      {
+        "idTipoAtendimento": 2,
+        "nome": "a",
+        "descricao": "b",
+        "justificativaRequerida": 1,
+        "dataAtualizado": "2019-10-22T20:10:39",
+        "ativo": 1
+      }
+    ]
+  }
+}

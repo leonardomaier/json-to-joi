@@ -1,0 +1,35 @@
+{
+  "result": {
+    "code": 200,
+    "info": "OK",
+    "message": "Encontrado(s) 2 recurso(s)."
+  },
+  "data": {
+    "recursos": [
+      {
+        "idRecurso": "123",
+        "nome": "a",
+        "descricao": "Utilizado para ABC",
+        "data": "2019-10-22T20:10:39",
+        "itens": [
+          {
+            "numero": 1,
+            "valor": 2.33
+          }
+        ]
+      },
+      {
+        "idRecurso": "123",
+        "nome": "b",
+        "descricao": "Utilizado para XYZ",
+        "data": "2019-09-15T12:38:10",
+        "itens": [
+          {
+            "numero": 1,
+            "valor": 8.41
+          }
+        ]
+      }
+    ]
+  }
+}
